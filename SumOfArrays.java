@@ -1,4 +1,4 @@
-# Creating a program for the Summation of Arrays.
+// Creating a program for the Summation of Arrays.
 
 class SumOfArrays{
    
@@ -10,10 +10,11 @@ class SumOfArrays{
       
       int sum = 0;
       
-      //Advanced for loop
+      // For loop (Advanced)
       for( int num : array) {
          
           sum = sum+num;
+         
          
       }
       System.out.println("Sum of array elements is:"+sum);
