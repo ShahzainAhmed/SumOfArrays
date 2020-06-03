@@ -1,2 +1,2 @@
 ## Sum of Arrays:
-### In this program, 
+### In this program, we are 
