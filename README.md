@@ -5,4 +5,4 @@
 - Arrays.
 - For loop.
 - Declaration and Initialization of Variables.
-- 
+- Print statement.
