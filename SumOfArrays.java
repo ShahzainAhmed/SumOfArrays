@@ -2,9 +2,10 @@
 
 class SumOfArrays{
    
-   public static void main(String args[]){
+   // Main method.
+   public static void main(String args[]){ 
       
-      
+      // Declaration of an Array.
       int[] array = {10, 20, 30, 40, 50, 10};
       
       int sum = 0;
