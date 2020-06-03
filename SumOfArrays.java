@@ -13,9 +13,9 @@ class SumOfArrays{
       // For loop (Advanced)
       for( int num : array) {
          
+         // Addition in an variable.
           sum = sum+num;
-         
-         
+                  
       }
       System.out.println("Sum of array elements is:"+sum);
       
