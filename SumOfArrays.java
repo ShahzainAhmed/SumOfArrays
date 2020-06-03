@@ -15,8 +15,9 @@ class SumOfArrays{
          
          // Addition in an variable.
           sum = sum+num;
-                  
+         
       }
+      // Print statement.
       System.out.println("Sum of array elements is:"+sum);
       
    }
