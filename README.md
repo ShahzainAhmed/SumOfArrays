@@ -1,2 +1,1 @@
-# SumOfArrays
-summation of arrays
+## Sum 
